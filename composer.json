@@ -1,0 +1,25 @@
+{
+    "name": "dagardner/package",
+    "type": "library",
+    "keywords": ["keywords", "are going", "here"],
+    "description": "Well...",
+    "require-dev": {
+        "satooshi/php-coveralls": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ChristianGaertner",
+            "email": "christiangaertner.film@googlemail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "DaGardner\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
