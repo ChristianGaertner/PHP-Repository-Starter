@@ -7,3 +7,10 @@
 Brief Description goes here
 
 This repository is meant to be cloned (not forked) and then be used to build awesome PHP projects.
+
+## On-Click enable Service
+
+- Travis CI
+- Coveralls.io
+- VersionEye
+- Packagist
