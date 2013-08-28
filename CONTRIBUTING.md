@@ -14,6 +14,9 @@ This project is following the PSR-0, PSR-1 and PSR-2 standards.
 First open an issue on GitHub with ```[Proposal]``` in the title with a brief explanation and implementation ideas.
 I' ll aprove or decline the idea. If it' s get approved you may go ahead and submit a pull request. If you don' t follow this process your pull request will get dropped.
 
+### Branch
+
+All PR should go into the ```develop``` branch. PR to the ```master``` will get dropped (the may get merged if they are documentation and comments changes only)
 
 ## Aditional coding conventions
 
